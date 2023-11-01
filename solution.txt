@@ -1,0 +1,11 @@
+1. Created Person class which conatins private name and age.
+
+2. Created Directory class which conatins addItem and updateDetails function with private list.
+
+3. Created a separate file for TextItem.
+
+4. Added key prop for TextItem.
+
+5. Added dependencies for Material UI.
+
+6. Removed unused useEffect import.
